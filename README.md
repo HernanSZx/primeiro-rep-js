@@ -1,2 +1,2 @@
-# primeiro-rep-js
+# Meu primeiro repositório Github - js
 Formação Javascript Mestre Jedi
